@@ -1,0 +1,44 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="main.js"></script>
+<style type="text/css">
+body,td,th {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+}
+body {
+	background-color: #CCC;
+}
+.footer {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+</style>
+<title>Base64 View</title>
+</head>
+<body bgcolor="#CCCCCC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div align="center">
+  <table width="318" border="0" align="center" cellpadding="5" cellspacing="0">
+    <tr>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+        <textarea name="src_a" cols="40" rows="10" id="src_a" onKeyUp="SrcB(src_a.value);"></textarea>
+      </td>
+    </tr>
+    <tr>
+      <td>Base64</td>
+    </tr>
+    <tr>
+      <td><textarea name="src_b" cols="40" rows="10" id="src_b" onKeyUp="SrcA(src_b.value);"></textarea></td>
+    </tr>
+    <tr>
+      <td class="footer"><div align="right">written by ronald.aai</div></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

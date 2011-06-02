@@ -1,0 +1,20 @@
+#appname:Base64_view
+#appid:com.maxitech.base64view
+#publisher:Ronald Aai
+#image:default_app_logo.png
+#url:www.545k.com
+#guid:623126ce-1904-4404-86af-48ecc939c2fa
+#desc:Encodes/Decodes Base64 texts
+#type:desktop
+runtime:1.2.0.RC1
+tiapp:1.2.0.RC1
+tifilesystem:1.2.0.RC1
+tiplatform:1.2.0.RC1
+tiui:1.2.0.RC1
+ticodec:1.2.0.RC1
+tidatabase:1.2.0.RC1
+timedia:1.2.0.RC1
+timonkey:1.2.0.RC1
+tinetwork:1.2.0.RC1
+tiprocess:1.2.0.RC1
+tiworker:1.2.0.RC1

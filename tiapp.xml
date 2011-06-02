@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ti:app xmlns:ti='http://ti.appcelerator.org'>
+<!-- These values are edited/maintained by Titanium Developer -->
+<id>com.maxitech.base64view</id>
+<name>Base64_view</name>
+<version>1.0</version>
+<publisher>Ronald Aai</publisher>
+<url>www.545k.com</url>
+<icon>default_app_logo.png</icon>
+<copyright>2011 by ronaldaai</copyright>
+<!-- Window Definition - these values can be edited -->
+<window>
+<id>initial</id>
+<title>Base64 View</title>
+<url>app://index.html</url>
+<width>330</width>
+<max-width>330</max-width>
+<min-width>330</min-width>
+<height>400</height>
+<max-height>400</max-height>
+<min-height>400</min-height>
+<fullscreen>false</fullscreen>
+<resizable>fakse</resizable>
+<chrome scrollbars="true">true</chrome>
+<maximizable>false</maximizable>
+<minimizable>true</minimizable>
+<closeable>true</closeable>
+</window>
+</ti:app>
